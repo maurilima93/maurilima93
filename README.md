@@ -55,7 +55,7 @@ I'm a passionate data scientist with over 7 years of experience, specializing in
  
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=zwayth&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=maurilima93&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
