@@ -1,7 +1,7 @@
 
 
 ## About Me    
-I'm a passionate data scientist with over 7 years of experience, specializing in AI and machine learning. I thrive on solving complex problems and driving innovation through deep learning, computer vision, and natural language processing. Proficient in Python, TensorFlow, and PyTorch, I am dedicated to leveraging data to uncover insights and develop cutting-edge AI solutions. My journey is fueled by curiosity and a commitment to making a significant impact in the field.
+I'm a passionate data scientist with over 6 years of experience, specializing in AI and machine learning. I thrive on solving complex problems and driving innovation through deep learning, computer vision, and natural language processing. Proficient in Python, TensorFlow, and PyTorch, I am dedicated to leveraging data to uncover insights and develop cutting-edge AI solutions. My journey is fueled by curiosity and a commitment to making a significant impact in the field.
     
 
 ## Languages and Tools 
