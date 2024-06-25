@@ -67,8 +67,8 @@ I'm a passionate data scientist with over 6 years of experience, specializing in
 ### Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mauri-lima-jr-3a3b85115/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burhan-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mauri.lima93@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Burhan-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/mauri-lima-jr-3a3b85115/"><img alt="LinkedIn" src="logo=linkedin"></a>
+<a href="mailto:mauri.lima93@gmail.com"><img alt="Email" src="logo=gmail"></a>
 </p>
 
 
